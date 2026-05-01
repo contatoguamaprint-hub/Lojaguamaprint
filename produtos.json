@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nome": "Adesivo Redondo Brilho",
+    "descricao": "Alta resistência, impressão full color",
+    "preco": 2.50,
+    "precoExibicao": "R$ 2,50/un",
+    "categoria": "adesivos",
+    "icone": "fas fa-circle"
+  },
+  {
+    "id": 2,
+    "nome": "Adesivo Quadrado Fosco",
+    "descricao": "Acabamento premium, anti-risco",
+    "preco": 3.20,
+    "precoExibicao": "R$ 3,20/un",
+    "categoria": "adesivos",
+    "icone": "fas fa-square"
+  },
+  {
+    "id": 3,
+    "nome": "Adesivo Transparente",
+    "descricao": "Efeito vinco, ideal para vidros",
+    "preco": 3.90,
+    "precoExibicao": "R$ 3,90/un",
+    "categoria": "adesivos",
+    "icone": "fas fa-eye"
+  },
+  {
+    "id": 4,
+    "nome": "Adesivo Vinil Texturizado",
+    "descricao": "Toque aveludado, resistente a água",
+    "preco": 4.50,
+    "precoExibicao": "R$ 4,50/un",
+    "categoria": "adesivos",
+    "icone": "fas fa-grip-lines"
+  },
+  {
+    "id": 5,
+    "nome": "Adesivo Resinado 3D",
+    "descricao": "Efeito alto-relevo, proteção UV",
+    "preco": 5.90,
+    "precoExibicao": "R$ 5,90/un",
+    "categoria": "adesivos",
+    "icone": "fas fa-cube"
+  },
+  {
+    "id": 6,
+    "nome": "Camiseta 100% Algodão",
+    "descricao": "Tecido premium, diversas cores",
+    "preco": 39.90,
+    "precoExibicao": "R$ 39,90/un",
+    "categoria": "malharia",
+    "icone": "fas fa-tshirt"
+  },
+  {
+    "id": 7,
+    "nome": "Regata Dry Fit",
+    "descricao": "Ideal para esportes, secagem rápida",
+    "preco": 34.90,
+    "precoExibicao": "R$ 34,90/un",
+    "categoria": "malharia",
+    "icone": "fas fa-running"
+  },
+  {
+    "id": 8,
+    "nome": "Moletom Canguru",
+    "descricao": "Forro interno felpado, capuz duplo",
+    "preco": 89.90,
+    "precoExibicao": "R$ 89,90/un",
+    "categoria": "malharia",
+    "icone": "fas fa-hoodie"
+  },
+  {
+    "id": 9,
+    "nome": "Jaqueta Corta-vento",
+    "descricao": "Leve, impermeável, bolsos laterais",
+    "preco": 119.90,
+    "precoExibicao": "R$ 119,90/un",
+    "categoria": "malharia",
+    "icone": "fas fa-wind"
+  },
+  {
+    "id": 10,
+    "nome": "Bermuda Esportiva",
+    "descricao": "Elástica, cós ajustável, bolsos",
+    "preco": 49.90,
+    "precoExibicao": "R$ 49,90/un",
+    "categoria": "malharia",
+    "icone": "fas fa-bolt"
+  },
+  {
+    "id": 11,
+    "nome": "Sacola Plástica Reforçada",
+    "descricao": "Alça fita, 30x40cm, até 6kg",
+    "preco": 0.85,
+    "precoExibicao": "R$ 0,85/un",
+    "categoria": "sacolas",
+    "icone": "fas fa-shopping-bag"
+  },
+  {
+    "id": 12,
+    "nome": "Sacola Ecológica Biodegradável",
+    "descricao": "30x35cm, resistente, compostável",
+    "preco": 1.20,
+    "precoExibicao": "R$ 1,20/un",
+    "categoria": "sacolas",
+    "icone": "fas fa-leaf"
+  },
+  {
+    "id": 13,
+    "nome": "Sacola Plástica Laminada",
+    "descricao": "Acabamento brilho, alta qualidade",
+    "preco": 1.50,
+    "precoExibicao": "R$ 1,50/un",
+    "categoria": "sacolas",
+    "icone": "fas fa-gem"
+  },
+  {
+    "id": 14,
+    "nome": "Sacola Kraft Personalizada",
+    "descricao": "Papel pardo 80g, alça de cordão",
+    "preco": 2.30,
+    "precoExibicao": "R$ 2,30/un",
+    "categoria": "sacolas",
+    "icone": "fas fa-recycle"
+  },
+  {
+    "id": 15,
+    "nome": "Sacola TNT Retornável",
+    "descricao": "Tecido não tecido, lavável, 40x45cm",
+    "preco": 4.90,
+    "precoExibicao": "R$ 4,90/un",
+    "categoria": "sacolas",
+    "icone": "fas fa-shopping-basket"
+  }
+]
